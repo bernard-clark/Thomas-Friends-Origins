@@ -1,0 +1,21 @@
+body{
+	background-color: skyblue;
+	color: green;
+}
+/*This is the style for the body(paragraph and background colors)*/
+h1{
+	color: blue;
+}
+/*This is the style for the first header*/
+h2{
+	color: orange;
+}
+/*This is the style for the second header*/
+h3{
+	color: purple;
+}
+/*This is the style for the third header*/
+a{
+	color: red;
+}
+/*This is the style for the page links*/
